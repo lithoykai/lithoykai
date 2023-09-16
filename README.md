@@ -39,6 +39,4 @@ I'm 22 years old and I'm studying Systems Analysis and Development at UNINASSAU.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lithoykai&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithoykai&layout=compact&langs_count=7&theme=dracula"/>
-
 </div>
