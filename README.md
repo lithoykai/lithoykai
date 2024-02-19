@@ -8,6 +8,7 @@ Hi! My name is Leonardo.
 I'm 22 years old and I'm studying Systems Analysis and Development at UNINASSAU. I love Dart/Flutter, you can see that in my repositories, haha!
 <br>
 
+My portfolio: https://lithoykai.github.io/
 <br>
 
 <h4>Technologies I use:</h4>
