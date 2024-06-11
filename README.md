@@ -5,7 +5,7 @@ Hi! My name is Leonardo.
 [![Github](https://img.shields.io/github/followers/lithoykai?label=Follow&style=social)](https://github.com/lithoykai)
 </h3>
 
-I'm 22 years old and I'm studying Systems Analysis and Development at UNINASSAU. I love Dart/Flutter, you can see that in my repositories, haha!
+I'm 23 years old and I'm studying Systems Analysis and Development at UNINASSAU. I love Dart/Flutter, you can see that in my repositories, haha!
 <br>
 
 My portfolio: https://lithoykai.github.io/
