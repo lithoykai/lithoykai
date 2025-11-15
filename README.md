@@ -10,7 +10,7 @@ I'm a software developer with experience in backend and mobile development, focu
 💻 Graduated in Systems Analysis and Development from UNINASSAU.
 <br>
 
-My portfolio: https://lithoykai.github.io/
+My new account: @cavalcanti-leo
 <br>
 
 <h4>Technologies I use:</h4>
@@ -18,13 +18,14 @@ My portfolio: https://lithoykai.github.io/
 <div>
   
 
-<img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-
-<img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 
 <img align="center" alt="Java-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+
+<img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
