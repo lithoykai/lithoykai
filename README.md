@@ -10,7 +10,7 @@ I'm a software developer with experience in backend and mobile development, focu
 💻 Graduated in Systems Analysis and Development from UNINASSAU.
 <br>
 
-My new account: @cavalcanti-leo
+My new account: [@cavalcanti-leo](https://github.com/cavalcanti-leo)
 <br>
 
 <h4>Technologies I use:</h4>
